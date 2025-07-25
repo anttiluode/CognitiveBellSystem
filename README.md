@@ -97,3 +97,5 @@ Use code with caution.
 To start the Cognitive Rhythm Analyzer, execute the following command in your terminal:
 
 python singeegviabellclaude.py
+
+It takes a little while for the sound and the system to start to work. 
