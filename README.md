@@ -1,4 +1,4 @@
-##Cognitive Rhythm Analyzer
+## Cognitive Rhythm Analyzer
 
 ![Cognitive Rhythm Analyzer](pic.png)
 
