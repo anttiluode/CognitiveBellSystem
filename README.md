@@ -1,5 +1,7 @@
 # EEG Bell Resonance System
 
+(Vibecoded. Odd. Super Experimental) 
+
 ![Cognitive Rhythm Analyzer](pic.png)
 
 An experimental system for visualizing EEG signal dynamics through resonance-based modeling.
