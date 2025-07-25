@@ -100,4 +100,5 @@ To start the Cognitive Rhythm Analyzer, execute the following command in your te
 
 python singeegviabellclaude.py
 
-It takes a little while for the sound and the system to start to work. 
+It takes a little while for the sound and the system to start to work. For the bells to start to ring 
+in synchrony with the eeg. 
