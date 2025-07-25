@@ -1,6 +1,6 @@
 # EEG Bell Resonance System
 
-(Vibecoded. Odd. Super Experimental) 
+(Vibecoded. Odd. Super Experimental. Most likely pseudoscience)  
 
 Note! It takes a while for the system to start. The bells are trailing behind the eeg as they 
 learn to resonate with it. 
