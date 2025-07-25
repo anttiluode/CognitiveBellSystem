@@ -1,5 +1,7 @@
 ## Cognitive Rhythm Analyzer
 
+(Highly speculative, most likely pseudoscience. Vibecoded) 
+
 ![Cognitive Rhythm Analyzer](pic.png)
 
 This is an enhanced EEG-Bell system designed to track and analyze the "ignition-search-ignition" cycles
