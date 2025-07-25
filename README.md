@@ -87,16 +87,13 @@ matplotlib
 mne
 
 You can install the dependencies using pip:
-Generated bash
+
 pip install numpy pyaudio scipy matplotlib mne
 
 Use code with caution.
-Bash
 
 # Running the Application
 
 To start the Cognitive Rhythm Analyzer, execute the following command in your terminal:
-
-Generated bash
 
 python singeegviabellclaude.py
