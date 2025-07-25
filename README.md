@@ -2,6 +2,9 @@
 
 (Vibecoded. Odd. Super Experimental) 
 
+Note! It takes a while for the system to start. The bells are trailing behind the eeg as they 
+learn to resonate with it. 
+
 ![Cognitive Rhythm Analyzer](pic.png)
 
 An experimental system for visualizing EEG signal dynamics through resonance-based modeling.
